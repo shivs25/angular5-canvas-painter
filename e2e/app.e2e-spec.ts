@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angular4-canvas-painter App', () => {
+describe('angular5-canvas-painter App', () => {
   let page: AppPage;
 
   beforeEach(() => {

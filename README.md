@@ -1,17 +1,17 @@
-shivs-angular4-painter
+shivs-angular5-painter
 ======================
 
-Angular4 component to paint on a canvas on desktop or touch devices
+Angular5 component to paint on a canvas on desktop or touch devices
 
 # Installation
 ```bash
-npm install shivs-angular4-painter --save 
+npm install shivs-angular5-painter --save 
 ```
 
 ## Usage
 * `Add PainterLibraryModule in your app.module.ts`
 ```javascript
-import {PainterLibraryModule} from 'shivs-angular4-painter';
+import {PainterLibraryModule} from 'shivs-angular5-painter';
 
 @NgModule({
     ...
@@ -38,7 +38,7 @@ import {PainterLibraryModule} from 'shivs-angular4-painter';
 ```
 
 ## Special Thanks
-Special thanks to pwambach (https://github.com/pwambach/angular-canvas-painter) and his work with the Angular1 directive. This was written to work with Angular4 because we needed it to work in our application that is written with Angular4. 
+Special thanks to pwambach (https://github.com/pwambach/angular-canvas-painter) and his work with the Angular1 directive. This was written to work with Angular5 because we needed it to work in our application that is written with Angular5. 
 
 
 ## License
