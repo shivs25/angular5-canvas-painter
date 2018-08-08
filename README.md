@@ -3,6 +3,11 @@ shivs-angular5-painter
 
 Angular5 component to paint on a canvas on desktop or touch devices
 
+# UPDATE
+DATE: `2018-08-07`
+- Angular 6 is supported in version 1.1.0
+- Angular 5 is supported in version 1.0.1
+
 # Installation
 ```bash
 npm install shivs-angular5-painter --save 
